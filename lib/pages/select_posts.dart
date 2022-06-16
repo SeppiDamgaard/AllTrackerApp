@@ -1,9 +1,7 @@
 import 'package:alltracker_app/models/consumption_post.dart';
 import 'package:alltracker_app/models/consumption_registration.dart';
 import 'package:alltracker_app/pages/graphs.dart';
-import 'package:alltracker_app/utils/extensions.dart';
 import 'package:flutter/material.dart';
-import 'package:fl_chart/fl_chart.dart';
 
 import '../utils/api_repository.dart';
 
